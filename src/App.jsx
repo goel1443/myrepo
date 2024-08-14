@@ -6,7 +6,7 @@ function App() {
   return (
     <>
      <h1>A blog app with appwrite</h1>
-     <button>submit sdsdfgsgs</button>
+     <button style={{color:'white', backgroundColor:'green',padding:'10px 20px', }}>submit sdsdfgsgs</button>
     </>
   )
 }
